@@ -1,0 +1,14 @@
+/Users/adammikolas/adventOfCode/denTreti/denTreti/bin/Debug/net8.0/denTreti
+/Users/adammikolas/adventOfCode/denTreti/denTreti/bin/Debug/net8.0/denTreti.deps.json
+/Users/adammikolas/adventOfCode/denTreti/denTreti/bin/Debug/net8.0/denTreti.runtimeconfig.json
+/Users/adammikolas/adventOfCode/denTreti/denTreti/bin/Debug/net8.0/denTreti.dll
+/Users/adammikolas/adventOfCode/denTreti/denTreti/bin/Debug/net8.0/denTreti.pdb
+/Users/adammikolas/adventOfCode/denTreti/denTreti/obj/Debug/net8.0/denTreti.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adammikolas/adventOfCode/denTreti/denTreti/obj/Debug/net8.0/denTreti.AssemblyInfoInputs.cache
+/Users/adammikolas/adventOfCode/denTreti/denTreti/obj/Debug/net8.0/denTreti.AssemblyInfo.cs
+/Users/adammikolas/adventOfCode/denTreti/denTreti/obj/Debug/net8.0/denTreti.csproj.CoreCompileInputs.cache
+/Users/adammikolas/adventOfCode/denTreti/denTreti/obj/Debug/net8.0/denTreti.dll
+/Users/adammikolas/adventOfCode/denTreti/denTreti/obj/Debug/net8.0/refint/denTreti.dll
+/Users/adammikolas/adventOfCode/denTreti/denTreti/obj/Debug/net8.0/denTreti.pdb
+/Users/adammikolas/adventOfCode/denTreti/denTreti/obj/Debug/net8.0/denTreti.genruntimeconfig.cache
+/Users/adammikolas/adventOfCode/denTreti/denTreti/obj/Debug/net8.0/ref/denTreti.dll

@@ -1,0 +1,14 @@
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/bin/Debug/net8.0/denDruhy
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/bin/Debug/net8.0/denDruhy.deps.json
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/bin/Debug/net8.0/denDruhy.runtimeconfig.json
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/bin/Debug/net8.0/denDruhy.dll
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/bin/Debug/net8.0/denDruhy.pdb
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/obj/Debug/net8.0/denDruhy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/obj/Debug/net8.0/denDruhy.AssemblyInfoInputs.cache
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/obj/Debug/net8.0/denDruhy.AssemblyInfo.cs
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/obj/Debug/net8.0/denDruhy.csproj.CoreCompileInputs.cache
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/obj/Debug/net8.0/denDruhy.dll
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/obj/Debug/net8.0/refint/denDruhy.dll
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/obj/Debug/net8.0/denDruhy.pdb
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/obj/Debug/net8.0/denDruhy.genruntimeconfig.cache
+/Users/adammikolas/adventOfCode/denDruhy/denDruhy/obj/Debug/net8.0/ref/denDruhy.dll

@@ -1,0 +1,14 @@
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/bin/Debug/net8.0/DenPrvni
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/bin/Debug/net8.0/DenPrvni.deps.json
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/bin/Debug/net8.0/DenPrvni.runtimeconfig.json
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/bin/Debug/net8.0/DenPrvni.dll
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/bin/Debug/net8.0/DenPrvni.pdb
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/obj/Debug/net8.0/DenPrvni.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/obj/Debug/net8.0/DenPrvni.AssemblyInfoInputs.cache
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/obj/Debug/net8.0/DenPrvni.AssemblyInfo.cs
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/obj/Debug/net8.0/DenPrvni.csproj.CoreCompileInputs.cache
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/obj/Debug/net8.0/DenPrvni.dll
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/obj/Debug/net8.0/refint/DenPrvni.dll
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/obj/Debug/net8.0/DenPrvni.pdb
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/obj/Debug/net8.0/DenPrvni.genruntimeconfig.cache
+/Users/adammikolas/adventOfCode/DenPrvni/DenPrvni/obj/Debug/net8.0/ref/DenPrvni.dll
