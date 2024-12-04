@@ -1,0 +1,15 @@
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/bin/Debug/net8.0/denCtvrty
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/bin/Debug/net8.0/denCtvrty.deps.json
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/bin/Debug/net8.0/denCtvrty.runtimeconfig.json
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/bin/Debug/net8.0/denCtvrty.dll
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/bin/Debug/net8.0/denCtvrty.pdb
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/obj/Debug/net8.0/denCtvrty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/obj/Debug/net8.0/denCtvrty.AssemblyInfoInputs.cache
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/obj/Debug/net8.0/denCtvrty.AssemblyInfo.cs
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/obj/Debug/net8.0/denCtvrty.csproj.CoreCompileInputs.cache
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/obj/Debug/net8.0/denCtvrty.sourcelink.json
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/obj/Debug/net8.0/denCtvrty.dll
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/obj/Debug/net8.0/refint/denCtvrty.dll
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/obj/Debug/net8.0/denCtvrty.pdb
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/obj/Debug/net8.0/denCtvrty.genruntimeconfig.cache
+/Users/adammikolas/adventOfCode/denCtvrty/denCtvrty/obj/Debug/net8.0/ref/denCtvrty.dll
