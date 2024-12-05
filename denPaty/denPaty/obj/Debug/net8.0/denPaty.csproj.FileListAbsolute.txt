@@ -1,0 +1,15 @@
+/Users/adammikolas/adventOfCode/denPaty/denPaty/bin/Debug/net8.0/denPaty
+/Users/adammikolas/adventOfCode/denPaty/denPaty/bin/Debug/net8.0/denPaty.deps.json
+/Users/adammikolas/adventOfCode/denPaty/denPaty/bin/Debug/net8.0/denPaty.runtimeconfig.json
+/Users/adammikolas/adventOfCode/denPaty/denPaty/bin/Debug/net8.0/denPaty.dll
+/Users/adammikolas/adventOfCode/denPaty/denPaty/bin/Debug/net8.0/denPaty.pdb
+/Users/adammikolas/adventOfCode/denPaty/denPaty/obj/Debug/net8.0/denPaty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adammikolas/adventOfCode/denPaty/denPaty/obj/Debug/net8.0/denPaty.AssemblyInfoInputs.cache
+/Users/adammikolas/adventOfCode/denPaty/denPaty/obj/Debug/net8.0/denPaty.AssemblyInfo.cs
+/Users/adammikolas/adventOfCode/denPaty/denPaty/obj/Debug/net8.0/denPaty.csproj.CoreCompileInputs.cache
+/Users/adammikolas/adventOfCode/denPaty/denPaty/obj/Debug/net8.0/denPaty.sourcelink.json
+/Users/adammikolas/adventOfCode/denPaty/denPaty/obj/Debug/net8.0/denPaty.dll
+/Users/adammikolas/adventOfCode/denPaty/denPaty/obj/Debug/net8.0/refint/denPaty.dll
+/Users/adammikolas/adventOfCode/denPaty/denPaty/obj/Debug/net8.0/denPaty.pdb
+/Users/adammikolas/adventOfCode/denPaty/denPaty/obj/Debug/net8.0/denPaty.genruntimeconfig.cache
+/Users/adammikolas/adventOfCode/denPaty/denPaty/obj/Debug/net8.0/ref/denPaty.dll
